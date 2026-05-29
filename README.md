@@ -367,9 +367,3 @@ function verificarAprovacao() {
 7. **Pesquisa em Vetor (Estoque):** Crie um array fixo no seu JavaScript contendo 5 nomes de ferramentas ou produtos. Crie um input numérico para que o usuário escolha uma posição (índice de 0 a 4) e exiba na tela qual produto está naquela vaga do vetor.
 8. **Exibição de Objeto (Ficha de Veículo):** Crie um objeto chamado `carro` que contenha as propriedades: `marca`, `modelo` e `ano`. Ao clicar em um botão, exiba essas informações de forma organizada na interface da sua página HTML.
 
-```
----
-
-Prontinho, material revisado e robustecido! Boa aula logo mais, vai ser um sucesso! Se precisar ajustar algo mais quando voltar, é só chamar.
-
-```
