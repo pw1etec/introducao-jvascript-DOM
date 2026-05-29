@@ -127,7 +127,7 @@ Funcionam exatamente da mesma forma em ambas as linguagens:
 | Operador | Função | JavaScript | Linguagem C |
 | --- | --- | --- | --- |
 | `&&` | E (AND) - Ambas as condições devem ser verdadeiras | ✅ | ✅ |
-| `"||"` | OU (OR) - Pelo menos uma condição deve ser verdadeira |
+| `\|\|` | OU (OR) - Pelo menos uma condição deve ser verdadeira |
 | `!` | NÃO (NOT) - Inverte o valor lógico | ✅ | ✅ |
 
 ---
